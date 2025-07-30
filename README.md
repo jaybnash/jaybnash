@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,pytorch,tensorflow,sklearn,sqlite,neovim,github,bash,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,latex,pytorch,tensorflow,sklearn,sqlite,neovim,github,bash,ubuntu" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ My research is primarily focused on, but not limited to:
 
 ## 🛠️ Technical Skills
 
-`Python` `Java` `Scheme` `LaTeX` `C++` `C#`
+`Python` `Java` `C` `C++` `C#` `Scheme` `LaTeX`
 
 `PyTorch` `TensorFlow` `scikit-learn` `sqlite` `NumPy` `Pandas` `JAX` `Numba` `Pgx`
 
