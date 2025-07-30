@@ -6,7 +6,7 @@ I am an undergraduate at [Connecticut College](https://www.conncoll.edu/), doubl
 
 ## 🔬 Research Interests
 
-My research is primarily focused on, but is not limited to:
+My research is primarily focused on, but not limited to:
 - **Game AI & Evolutionary Computation** 🧬
 - **Lightweight Policy Learning & Concensus Mechanisms** 🔮
 - **Robotics & Autonomous Agents** 🤖  
