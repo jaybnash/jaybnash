@@ -1,11 +1,10 @@
-<pre style="text-align:center; font-family:monospace;">
-     _               _   _           _     
-    | | __ _ _   _  | \ | | __ _ ___| |__  
- _  | |/ _` | | | | |  \| |/ _` / __| '_ \ 
-| |_| | (_| | |_| | | |\  | (_| \__ \ | | |
- \___/ \__,_|\__, | |_| \_|\__,_|___/_| |_|
-             |___/                                                                                                                        
-</pre>
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;_&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;_&nbsp;|&nbsp;|__&nbsp;_&nbsp;_&nbsp;&nbsp;_&nbsp;&nbsp;|&nbsp;\|&nbsp;|__&nbsp;_&nbsp;_|&nbsp;|_|&nbsp;|_|&nbsp;|_|&nbsp;_&nbsp;|&nbsp;|__&nbsp;<br>
+|&nbsp;||&nbsp;/&nbsp;_`&nbsp;|&nbsp;||&nbsp;|&nbsp;|&nbsp;.`&nbsp;/&nbsp;_`&nbsp;(_-&lt;&nbsp;'&nbsp;\&nbsp;&nbsp;|&nbsp;(_&nbsp;|&nbsp;|&nbsp;_|&nbsp;'&nbsp;\&nbsp;||&nbsp;|&nbsp;'_&nbsp;\<br>
+&nbsp;\__/\__,_|\_,&nbsp;|&nbsp;|_|\_\__,_/__/_||_|&nbsp;&nbsp;\___|_|\\__|_||_\\_,_|_.__/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|__/                                                <br>
+</p>
 
 ---
 
