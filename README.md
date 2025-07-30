@@ -1,4 +1,5 @@
-<table align="center">
+
+  <tr>
     <td>
 <pre>
     _             _  _         _       ___ _ _   _        _    
@@ -8,7 +9,7 @@
            |__/                                               
 </pre>
     </td>
-</table>
+  </tr>
 
 ---
 
