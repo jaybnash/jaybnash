@@ -27,6 +27,6 @@ My research is primarily focused on, but not limited to:
 
 [` CV `](Jay.Nash.CV.pdf)
 
-##
+---
 
 > _Last Updated: July 29th, 2025_
