@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,pytorch,tensorflow,sqlite,neovim,github,bash,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=py,java,pytorch,tensorflow,sklearn,sqlite,neovim,github,bash,ubuntu" />
   </a>
 </p>
 
@@ -41,7 +41,9 @@ My research is primarily focused on, but not limited to:
 
 `Python` `Java` `Scheme` `LaTeX` `C++` `C#`
 
-`PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas` `JAX` `Numba` `Pgx`
+`unix` `bash` `git`
+
+`PyTorch` `TensorFlow` `scikit-learn` `sqlite` `NumPy` `Pandas` `JAX` `Numba` `Pgx`
 
 
 ## 📄 Official Documents
