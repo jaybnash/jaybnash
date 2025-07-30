@@ -41,8 +41,6 @@ My research is primarily focused on, but not limited to:
 
 `Python` `Java` `Scheme` `LaTeX` `C++` `C#`
 
-`unix` `bash` `git`
-
 `PyTorch` `TensorFlow` `scikit-learn` `sqlite` `NumPy` `Pandas` `JAX` `Numba` `Pgx`
 
 
