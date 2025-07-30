@@ -19,8 +19,6 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaybnash)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 I am an undergraduate at [Connecticut College](https://www.conncoll.edu/), double majoring in [Computer Science](https://www.conncoll.edu/academics/majors-departments-programs/departments/computer-science/) and [Physics](https://www.conncoll.edu/academics/majors-departments-programs/departments/physics-astronomy-and-geophysics/). While I'm not reading science fiction novels or playing Dungeons and Dragons; I spend my time working on machine learning models and non-deterministic simulations in the [Autonomous Agent Learning Lab](https://oak.conncoll.edu/parker/research.html). You can view my published work [here](https://scholar.google.com/citations?user=mporz1gAAAAJ&hl=en).
