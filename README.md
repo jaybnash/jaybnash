@@ -46,7 +46,7 @@ My research is primarily focused on, but not limited to:
 
 ## 📄 Official Documents
 
-[` CV `](Jay.Nash.CV.pdf)
+[` CV `](Jay.Nash.CV.pdf) [` Resume `](Jay.Nash.Resume.pdf)
 
 ---
 
